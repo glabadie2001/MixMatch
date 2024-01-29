@@ -10,4 +10,4 @@ The first step to joining the MixMatch space is to create your personal profile.
 
 Tags are a big part of how we smartly connect you with the artists you want to find. Simply select the tags that best apply to you and let us to do the heavy-lifting of finding the right people. Another way to expand your network is to showcase a snippet of your work on your profile which can be viewed by potential matches. This provides us with another metric to use when finding the best for you! 🎶
 
-Want to get to know your matches better? We have built-in integrations with all your most-used socials so it's easier to from connecting online to meeting up and getting to work. 🎤
+Want to get to know your matches better? We have built-in integrations with all your most-used socials so it's easier to go from connecting online to meeting up and getting to work. 🎤
