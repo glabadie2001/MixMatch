@@ -9,3 +9,5 @@ MixMatch is all about creating a space where singers, songwriters, musicians, an
 The first step to joining the MixMatch space is to create your personal profile. We strive to make it seamless and intuitive for users to find people with similar interests. So, we streamlined the profile creation process so you only have to enter information that will best suit _YOUR_ needs.
 
 Tags are a big part of how we smartly connect you with the artists you want to find. Simply select the tags that best apply to you and let us to do the heavy-lifting of finding the right people. Another way to expand your network is to showcase a snippet of your work on your profile which can be viewed by potential matches. This provides us with another metric to use when finding the best for you! 🎶
+
+Want to get to know your matches better? We have built-in integrations with all your most-used socials so it's easier to from connecting online to meeting up and getting to work. 🎤
